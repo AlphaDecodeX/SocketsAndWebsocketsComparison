@@ -1,0 +1,3 @@
+pip3 install locust
+pip install greenlet==0.4.16
+pip3 install --upgrade gevent==20.9.0
